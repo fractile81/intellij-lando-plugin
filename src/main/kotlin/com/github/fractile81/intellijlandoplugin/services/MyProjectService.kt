@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.fractile81.intellijlandoplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fractile81.intellijlandoplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

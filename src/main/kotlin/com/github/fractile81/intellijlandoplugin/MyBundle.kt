@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.fractile81.intellijlandoplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
